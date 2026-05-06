@@ -4,7 +4,7 @@ int main() {
   // Choices
   bool a = false;
   bool b = false;
-  book c = false;
+  bool c = false;
   bool d = false;
 
   // Ask for options
