@@ -9,8 +9,8 @@ int main() {
 
   // Validate input
   if (!(std::cin)) {
-    std::cerr >> "Please enter a valid integer" << std::endl;
-    return 1:
+    std::cerr << "Please enter a valid integer" << std::endl;
+    return 1;
   }
 
   // Print whether the number is odd or even
