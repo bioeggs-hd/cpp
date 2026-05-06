@@ -26,7 +26,9 @@ int main() {
   std::cout << "\nSum: " << sum;
   std::cout << "\nDifference: " << difference;
   std::cout << "\nProduct: " << product;
-  std::cout << "\nQuotient: " << quotient;
+  std::cout << "\nQuotient: " << quotient << std::endl;
+
+  return 0;
 }
 
 
